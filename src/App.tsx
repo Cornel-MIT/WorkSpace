@@ -17,11 +17,11 @@ function App() {
       
 
       <div className='button-container'>
-      <button className="custom-button">GitHub</button><br/><br/>
-      <button className="custom-button">Frontend Mentor</button><br/><br/>  
-      <button className="custom-button">LinkedIn</button><br/><br/>  
-      <button className="custom-button">Twitter</button><br/><br/>
-      <button className="custom-button">Instagram</button><br/>
+      <a href="https://github.com"><button className="custom-button">GitHub</button><br/><br/></a>
+      <a href="https://www.frontendmentor.io"><button className="custom-button">Frontend Mentor</button><br/><br/></a>
+      <a href="https://www.linkedin.com"><button className="custom-button">LinkedIn</button><br/><br/></a>
+      <a href="https://twitter.com"><button className="custom-button">Twitter</button><br/><br/></a>
+      <a href="https://www.instagram.com"><button className="custom-button">Instagram</button><br/></a>
     </div>
 
     </div>
